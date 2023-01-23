@@ -11,4 +11,8 @@ public interface StudentService {
 
     //to get All Student
     public List<Student> getAllStudents();
+
+    //TODO put or update data
+
+    //TODO delete date
 }
